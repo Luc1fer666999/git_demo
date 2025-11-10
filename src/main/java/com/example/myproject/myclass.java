@@ -4,7 +4,6 @@ public class MyClass {
     // Поле класса
     private String name;
 
-    // Конструктор
     public MyClass(String name) {
         this.name = name;
     }
